@@ -1,0 +1,29 @@
+h1 {
+  width: 498px;
+  margin: 0 auto 8px;
+  font-family: "Lora", serif;
+  text-align: center;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 51px;
+  color:#2E2E2E;
+
+}
+h2 {
+  width: 504px;
+  margin: 0 auto 8px;
+  font-family: "Oxygen", serif;
+  text-align: center;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color:#2E2E2E;
+  opacity: 63;
+
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
